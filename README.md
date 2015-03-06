@@ -1,2 +1,3 @@
-# jk_gallery
+# 개요
+
 jQuery gallery plugin
